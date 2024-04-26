@@ -8,15 +8,23 @@ The Smart Attendance Manager in Excel VBA provides efficient attendance tracking
 - The "Add" button adds new attendance records, while the "Update" button allows editing existing ones.
 - Filtering and sorting options enable easy data management.
 - Data can be exported to Excel for further analysis.
+
+</br>
   
 2. Employee Master Page:
 - Users can add and update employee information.
 - Bulk attendance marking is available for multiple employees at once.
 
+</br>
+
 3. Attendance Code Page:
 - Allows addition and updating of attendance codes for use in marking attendance.
 
+</br>
+
 These features streamline attendance management, enabling easy tracking, editing, and reporting of attendance records within Excel.
+
+</br>
 
 ## Application Screenshots
 
